@@ -5,3 +5,6 @@ Merge problem #1 in local repo
 Merging problem #1
 branchA: branching example
 a
+branchA: branching something editted exaple
+branchA : edition
+
